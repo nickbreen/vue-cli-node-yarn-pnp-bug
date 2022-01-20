@@ -1,0 +1,7 @@
+{
+  "name": "vue-cli-node-yarn-pnp-bug",
+  "dependencies": {
+    "@vue/cli": "4.5.15"
+  },
+  "packageManager": "yarn@2.4.3"
+}
